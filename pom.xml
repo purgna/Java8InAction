@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>manning</groupId>
-    <artifactId>lambdasinaction</artifactId>
+    <artifactId>Java8InAction</artifactId>
     <version>1.0</version>
     
     <properties>
